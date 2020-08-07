@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>foodBankHelper</name>
-	<description>A tool that allows a better management of food banks and its resources</description>
+	<description>A tool for food banks</description>
 
 	<properties>
 		<java.version>11</java.version>
